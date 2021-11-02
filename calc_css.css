@@ -1,0 +1,32 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.number-input {
+    display: flex;
+}
+
+.calc {
+    display: flex;
+}
+
+.number-input__number, .calc__text {
+    width: 120px;
+}
+
+.calc__button_active {
+    background: #ccc;
+}
+
