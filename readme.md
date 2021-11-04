@@ -1,1 +1,2 @@
 Simple calculate.
+Use querySelector.
